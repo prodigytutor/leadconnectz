@@ -25,7 +25,7 @@ function DashboardNavBar() {
     <div className="p-4 flex justify-between items-center text-purple-500 border-b-2">
       {/* Logo Link */}
       <Link href="/">
-        <h1 className="text-2xl font-bold">Lead Convert</h1>
+        <h1 className="text-2xl font-bold">Lead Connectz</h1>
       </Link>
       {/*  Routes followed by the clerk user button */}
       <div className="flex gap-x-6 text-lg items-center">
