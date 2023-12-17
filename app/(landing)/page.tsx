@@ -41,7 +41,7 @@ const Hero = () => {
       </h1>
 
       <p className="sm:text-md mt-5 max-w-2xl text-sm text-gray-600  md:text-xl">
-        LeadConvert helps creators turn regular content into interactive AI
+        LeadConnectz helps creators turn regular content into interactive AI
         experiences, effortlessly capturing leads, and nurturing them towards
         your digital products or courses.
       </p>
@@ -145,7 +145,7 @@ const HowItWorks = () => {
           checks={[
             "Share across multiple platforms",
             "Integrated with LinkedIn and Twitter",
-            "Customize your LeadConvert link",
+            "Customize your LeadConnectz link",
           ]}
         />
       </div>
@@ -162,7 +162,7 @@ const HowItWorks = () => {
         </div>
         <HowItWorksStep
           title="Step 3: Capture and Convert"
-          description="LeadConvert asks for the user's email address, providing you with engaged leads ready for follow-up."
+          description="LeadConnectz asks for the user's email address, providing you with engaged leads ready for follow-up."
           checks={[
             "Automated email capture",
             "Engage leads with dynamic content",

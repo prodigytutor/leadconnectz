@@ -16,7 +16,7 @@ async function LandingPageNavbar() {
           className="text-2xl font-bold text-purple-500 no-underline"
           href="/"
         >
-          LeadConvert
+          LeadConnectz
         </Link>
       </div>
       <div className="text-purple-500 font-semibold text-lg">
